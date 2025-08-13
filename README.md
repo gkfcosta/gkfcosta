@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Costa
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python & R
+- 🌱 I’m currently building AI workflows
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me: +971585210373
 
